@@ -26,6 +26,8 @@ INTEGERS Trimmed Mean in R: 488
 FLOATS Trimmed Mean in R: 498.7642
 
 (3) For Go 
+
+
  ```bash
    go get github.com/mwood881/trimmean
  ```
