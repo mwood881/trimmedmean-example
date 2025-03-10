@@ -35,8 +35,7 @@ install this package to make sure it is in the system
 
 
 (4) ```bash
-   go run main.go
- ```
+   go run main.go```
 You should get the following for Go:
 Trimmed mean for integers: 488.00
 Trimmed mean for floats: 498.76
